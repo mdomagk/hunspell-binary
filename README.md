@@ -2,6 +2,8 @@
 
 [![Build](https://github.com/mdomagk/hunspell-binary/actions/workflows/build.yml/badge.svg)](https://github.com/mdomagk/hunspell-binary/actions/workflows/build.yml)
 
+Forked from: https://github.com/iquiw/hunspell-binary
+
 This repository sets up GitHub Action for Hunspell build, which builds https://github.com/hunspell/hunspell
 
 See https://github.com/hunspell/hunspell#usage for usage.
